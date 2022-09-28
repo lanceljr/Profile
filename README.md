@@ -19,7 +19,7 @@
 
 
 ## 🔭 Skills  
-<table><tr><td valign="top" width="50%">
+<table style="border:none"><tr><td valign="top" width="50%">
 
 
 
