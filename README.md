@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there ✌️ I'm Lance Lim</h1>
+<h1 align='center'> < Hi there ✌️ I'm Lance Lim /> </h1>
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center" height="" width="500" />
@@ -58,9 +58,8 @@
 		<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" />&nbsp;&nbsp;
-
-
 	</p>
+    
 <h5>Database</h5>
 	<p align='left'>
     	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
@@ -75,4 +74,5 @@
 
 
 <hr>
+
 
