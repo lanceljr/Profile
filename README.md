@@ -48,7 +48,7 @@
 
 
 ## 🚀 Full Stack  
-<table><tr><td valign="top" width="33%">
+<table style="border:none"><tr><td valign="top" width="33%">
 
 
 
