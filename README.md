@@ -1,5 +1,4 @@
 <h1 align='center'> Hi there ✌️ I'm Lance Lim</h1>
-<h1 align='center'> Hi there ✌️ I'm Lance Lim</h1>
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center" height="" width="500" />
@@ -54,6 +53,7 @@
 <h5>Backend</h5>
 	<p align='left'>
 		<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp; 
+        <img src="https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp; 
 		<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp; 
 		<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp; 
 	</p>
@@ -61,7 +61,7 @@
 	<p align='left'>
     	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
 		<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; 
+		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp;&nbsp;
 	</p>
 <h5>CI/CD</h5>
 	<p align='left'>
