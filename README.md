@@ -1,19 +1,12 @@
 <h1 align='center'> Hi there ✌️ I'm Lance Lim</h1>
+<h1 align='center'> Hi there ✌️ I'm Lance Lim</h1>
 
-<p align='center'>
-	Currently a Penultimate Student at SMU 
-</p>
-
-
-
-<hr>
 <div align="center">
     <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center" height="" width="500" />
 </div>  
 
-<hr>
 
-### <div align="center">Hi there ✌️ I'm Lance Lim, a Penultimate Student at SMU</div>  
+### <div align="center"> Currently a Penultimate Student at SMU 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning more about CI/CD   
@@ -68,7 +61,7 @@
 	<p align='left'>
     	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
 		<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; 
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp; 
 	</p>
 <h5>CI/CD</h5>
 	<p align='left'>
