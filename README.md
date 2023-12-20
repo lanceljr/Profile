@@ -5,10 +5,10 @@
 </div>  
 
 
-### <div align="center"> Currently a Penultimate Student at SMU 👨‍💻</div>  
+### <div align="center"> Currently a Final Year Student at SMU 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning more about CI/CD   
+- 🌱 Aspiring Product Manager
   
 
 - ⚡ Fun fact: Huge fan of The Office  
